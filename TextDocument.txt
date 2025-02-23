@@ -1,2 +1,4 @@
 Hi All,
 First document in GitHub
+
+Made changes 
